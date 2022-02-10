@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "jgoriginal <932274204@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
