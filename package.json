@@ -5,6 +5,7 @@
   "author": "jgoriginal <932274204@qq.com>",
   "license": "MIT",
   "dependencies": {
+    "@types/express": "^4.17.13",
     "express": "^4.17.2"
   }
 }
